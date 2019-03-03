@@ -21,7 +21,7 @@ public with sharing class DemoController {
     }
 
     /**
-     * Get the version of the SFDX demo app
+     * Get the version of the SFDX demo app - Sarat Testing 
      */
     public String getAppVersion() {
         return '1.0.0';
